@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "8192457a1970f74ea31434968843f7f0",
-"index.html": "f20d4206e6701debea49b058102b1056",
-"/": "f20d4206e6701debea49b058102b1056",
-"main.dart.js": "c39a507f7bbf1da9a8309029d6bc3734",
+"index.html": "275bccbcc07c4966993037d1bd2a2ce8",
+"/": "275bccbcc07c4966993037d1bd2a2ce8",
+"main.dart.js": "824b9b161908d3f22e85b76047aad98d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "265f4c72259692e78a58ec9ac1e9ac4b",
 "assets/AssetManifest.json": "db6e49ae99b67f41b25c3cede86ab687",
-"assets/NOTICES": "8550efea8424fe0e0b89b393b3c44dfe",
+"assets/NOTICES": "b0e4661f7a7d204ea2c9346be91612ab",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/tarot/TAROT42.jpeg": "a4991cd8026917085fe3252e2ca039b7",
